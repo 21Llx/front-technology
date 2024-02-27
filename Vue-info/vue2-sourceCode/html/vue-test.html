@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="../dist/vue.js"></script>
+  </head>
+  <body>
+    <div id="app">
+      {{sum}}
+    </div>
+    <script>
+      // mixin
+     
+      let vm = new Vue({
+        el: "#app",
+        data() {
+          return {
+            name: "xxx",
+            age: 123,
+            obj: {
+              a:1,
+              b:2
+            },
+            a:1,
+            b:2,
+            arr: [1,2,3,4,{a2:1}]
+          };
+        },
+        computed: {
+          sum(){
+            return this.a + this.b
+          }
+        }
+      });
+      vm.arr.push("xxxxxxxxxx")
+      setTimeout(()=>{
+        vm.name = "fff"
+        vm.age = 999
+        vm.a = 999
+      },1000)
+    </script>
+  </body>
+</html>

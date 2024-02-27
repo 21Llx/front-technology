@@ -1,0 +1,41 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "storePassword": "000000185E7ADD7D55C426D3DE0B21E12BEE42E39A25A66785D1B3EA04744A3CA02BB17FDF0F9A03",
+          "certpath": "D:\\work\\code\\owner\\HarmonuOs\\Akado_cert.cer",
+          "keyAlias": "hm",
+          "keyPassword": "0000001892EAE4C5302DF3883F55C1DDFBF99CCCD3C378A9FA3294C43C08F8D02CD2C11A7A984F1A",
+          "profile": "D:\\work\\code\\owner\\HarmonuOs\\AkadoRelease.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "D:\\work\\code\\owner\\HarmonuOs\\hm.p12"
+        }
+      }
+    ],
+    "compileSdkVersion": 9,
+    "compatibleSdkVersion": 9,
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}

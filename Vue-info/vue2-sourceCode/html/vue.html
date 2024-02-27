@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <!-- <script src="./dist/vue.js"></script> -->
+    <script src="../dist/vue.js"></script>
+  </head>
+  <body>
+    <!-- <div id="app">
+      <h1 id="ff" style="color:orangered">
+        {{name}}
+        <p>{{year}}</p>
+      </h1>
+      <p>{{name}} xxxxx</p>
+      <p>{{arr}}</p>
+    </div> -->
+    <div id="app">
+      {{fullStr}}
+    </div>
+    <script>
+      // mixin
+      Vue.mixin({
+        created(){
+        },
+      })
+      Vue.mixin({
+        created(){
+        },
+      })
+      let vm = new Vue({
+        el: "#app",
+        data() {
+          return {
+            name: "qweori",
+            year: "2023",
+            time: {
+              month: "01",
+              date: "29",
+            },
+            array: ["xx", "ff", "gg", { hh: "hhh" }],
+            arr: [1,2,3,4],
+            firstStr: "xx",
+            lastStr: "ff",
+          };
+        },
+        computed:{
+          fullStr(){
+            return this.firstStr + this.lastStr
+          },
+          fullStr2:{
+            get(){
+              return this.firstStr + this.lastStr
+            }
+          }
+        },
+        watch:{
+          firstStr(newValue,oldValue){
+            console.log(newValue)
+            console.log(oldValue)
+          }
+        },
+        created(){
+          this.array.push("xxx")
+        }
+        // template: "<div>xxx</div>"
+      });
+      // watch里面的函数 最后本质都是掉$watch
+      // vm.$watch(()=>vm.firstStr,(newValue,oldValue)=>{console.log(newValue)})
+
+      // computed、watch
+      // setTimeout(()=>{
+      //   vm.firstStr = "qweqwewq"
+      // },1000)
+      
+      // data的改变
+      // vm.arr.push(88)
+      // vm.$mount("#app")
+      // setTimeout(()=>{
+      //   vm.name="reat"
+      //   vm.name="rea2t"
+      //   vm.name="reat3"
+      //   vm.name="reat4"
+      // },1000)
+
+      // nextTick
+      // vm.name = "xxx"
+      // vm.$nextTick(()=>{
+      // })
+      
+
+    </script>
+  </body>
+</html>

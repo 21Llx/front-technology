@@ -1,0 +1,519 @@
+2023-09-05 15:49:56,196 INFO 11048 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-05 15:49:56,197 INFO 11048 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-05 15:49:56,197 INFO 11048 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-05 15:49:56,397 INFO 3320 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 45603606ms at 2023-09-06 04:30:00.003
+2023-09-05 15:49:56,397 INFO 3320 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 29403603ms at 2023-09-06 00:00:00.000
+2023-09-05 15:49:56,398 INFO 3320 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 29404603ms at 2023-09-06 00:00:01.000
+2023-09-05 15:51:09,153 INFO 4652 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-05 15:51:09,153 INFO 4652 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-05 15:51:09,153 INFO 4652 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-05 15:51:18,522 INFO 15168 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-05 15:51:18,522 INFO 15168 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-05 15:51:18,522 INFO 15168 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-06 15:29:03,432 INFO 4816 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 46856570ms at 2023-09-07 04:30:00.002
+2023-09-06 15:29:03,432 INFO 4816 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 30656568ms at 2023-09-07 00:00:00.000
+2023-09-06 15:29:03,432 INFO 4816 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 30657568ms at 2023-09-07 00:00:01.000
+2023-09-06 15:29:03,220 INFO 15864 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-06 15:29:03,220 INFO 15864 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-06 15:29:03,220 INFO 15864 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-06 15:29:04,935 INFO 12112 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-06 15:29:04,935 INFO 12112 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-06 15:29:04,935 INFO 12112 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-06 16:12:44,134 INFO 6068 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-06 16:12:44,134 INFO 6068 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-06 16:12:44,134 INFO 6068 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-06 16:50:41,381 INFO 1900 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-06 16:50:41,381 INFO 1900 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-06 16:50:41,381 INFO 1900 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-06 16:50:42,813 INFO 14920 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-06 16:50:42,813 INFO 14920 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-06 16:50:42,813 INFO 14920 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-06 16:50:45,360 INFO 15652 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-06 16:50:45,360 INFO 15652 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-06 16:50:45,360 INFO 15652 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-06 16:51:04,086 INFO 9016 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-06 16:51:04,086 INFO 9016 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-06 16:51:04,086 INFO 9016 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-06 16:52:01,496 INFO 15524 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-06 16:52:01,496 INFO 15524 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-06 16:52:01,496 INFO 15524 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-06 16:52:41,350 INFO 13588 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-06 16:52:41,350 INFO 13588 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-06 16:52:41,350 INFO 13588 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-06 16:52:52,150 INFO 11972 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-06 16:52:52,150 INFO 11972 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-06 16:52:52,150 INFO 11972 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-06 16:53:33,648 INFO 5000 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-06 16:53:33,648 INFO 5000 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-06 16:53:33,648 INFO 5000 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-06 16:54:22,249 INFO 4056 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-06 16:54:22,249 INFO 4056 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-06 16:54:22,249 INFO 4056 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-06 16:54:27,347 INFO 16108 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-06 16:54:27,347 INFO 16108 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-06 16:54:27,347 INFO 16108 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-06 16:55:25,008 INFO 8908 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-06 16:55:25,008 INFO 8908 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-06 16:55:25,008 INFO 8908 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-06 16:56:50,486 INFO 9220 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-06 16:56:50,486 INFO 9220 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-06 16:56:50,486 INFO 9220 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-06 16:56:55,396 INFO 11564 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-06 16:56:55,396 INFO 11564 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-06 16:56:55,396 INFO 11564 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-07 13:54:04,958 INFO 5212 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 52555045ms at 2023-09-08 04:30:00.003
+2023-09-07 13:54:04,959 INFO 5212 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 36355042ms at 2023-09-08 00:00:00.001
+2023-09-07 13:54:04,959 INFO 5212 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 36356041ms at 2023-09-08 00:00:01.000
+2023-09-07 13:54:04,724 INFO 14724 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-07 13:54:04,724 INFO 14724 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-07 13:54:04,724 INFO 14724 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-07 13:54:06,064 INFO 9736 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-07 13:54:06,064 INFO 9736 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-07 13:54:06,064 INFO 9736 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-07 14:31:44,657 INFO 7816 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-07 14:31:44,657 INFO 7816 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-07 14:31:44,657 INFO 7816 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-07 14:31:44,657 INFO 7816 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-07 14:31:44,794 INFO 7944 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 50295208ms at 2023-09-08 04:30:00.002
+2023-09-07 14:31:44,794 INFO 7944 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 34095206ms at 2023-09-08 00:00:00.000
+2023-09-07 14:31:44,794 INFO 7944 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 34096206ms at 2023-09-08 00:00:01.000
+2023-09-07 14:31:44,795 INFO 7944 [Timer] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js next time will execute after 2000ms at 2023-09-07 14:31:46.795
+2023-09-07 14:31:46,809 INFO 7816 [Job#1694068306808678666102984001] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js executing by app
+2023-09-07 14:31:46,813 ERROR 7816 [-/127.0.0.1/-/3ms SCHEDULE /__schedule?path=D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js&interval=2s&type=all] [Job#1694068306808678666102984001] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js execute failed, used 1ms. TypeError: Cannot read property 'curl' of undefined
+    at UpdateInfo.subscribe (D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js:11:33)
+    at Object.task (D:\work\code\owner\node\eggSys\node_modules\_egg-schedule@4.0.0@egg-schedule\lib\load_schedule.js:37:22)
+    at D:\work\code\owner\node\eggSys\node_modules\_egg-schedule@4.0.0@egg-schedule\app.js:48:23
+    at AsyncLocalStorage.run (async_hooks.js:314:14)
+    at Messenger.<anonymous> (D:\work\code\owner\node\eggSys\node_modules\_egg-schedule@4.0.0@egg-schedule\app.js:47:27)
+    at Messenger.emit (events.js:400:28)
+    at Messenger._onMessage (D:\work\code\owner\node\eggSys\node_modules\_egg@3.17.4@egg\lib\core\messenger\ipc.js:120:12)
+    at process.emit (events.js:412:35)
+    at emit (internal/child_process.js:912:12)
+    at processTicksAndRejections (internal/process/task_queues.js:83:21)
+2023-09-07 14:31:46,809 INFO 7944 [Timer] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js next time will execute after 2000ms at 2023-09-07 14:31:48.809
+2023-09-07 14:31:48,824 INFO 7816 [Job#1694068308823678686252500002] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js executing by app
+2023-09-07 14:31:48,828 ERROR 7816 [-/127.0.0.1/-/4ms SCHEDULE /__schedule?path=D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js&interval=2s&type=all] [Job#1694068308823678686252500002] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js execute failed, used 0ms. TypeError: Cannot read property 'curl' of undefined
+    at UpdateInfo.subscribe (D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js:11:33)
+    at Object.task (D:\work\code\owner\node\eggSys\node_modules\_egg-schedule@4.0.0@egg-schedule\lib\load_schedule.js:37:22)
+    at D:\work\code\owner\node\eggSys\node_modules\_egg-schedule@4.0.0@egg-schedule\app.js:48:23
+    at AsyncLocalStorage.run (async_hooks.js:314:14)
+    at Messenger.<anonymous> (D:\work\code\owner\node\eggSys\node_modules\_egg-schedule@4.0.0@egg-schedule\app.js:47:27)
+    at Messenger.emit (events.js:400:28)
+    at Messenger._onMessage (D:\work\code\owner\node\eggSys\node_modules\_egg@3.17.4@egg\lib\core\messenger\ipc.js:120:12)
+    at process.emit (events.js:412:35)
+    at emit (internal/child_process.js:912:12)
+    at processTicksAndRejections (internal/process/task_queues.js:83:21)
+2023-09-07 14:31:48,824 INFO 7944 [Timer] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js next time will execute after 2000ms at 2023-09-07 14:31:50.824
+2023-09-07 14:31:50,825 INFO 7816 [Job#1694068310825678706269957003] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js executing by app
+2023-09-07 14:31:50,831 ERROR 7816 [-/127.0.0.1/-/6ms SCHEDULE /__schedule?path=D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js&interval=2s&type=all] [Job#1694068310825678706269957003] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js execute failed, used 1ms. TypeError: Cannot read property 'curl' of undefined
+    at UpdateInfo.subscribe (D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js:11:33)
+    at Object.task (D:\work\code\owner\node\eggSys\node_modules\_egg-schedule@4.0.0@egg-schedule\lib\load_schedule.js:37:22)
+    at D:\work\code\owner\node\eggSys\node_modules\_egg-schedule@4.0.0@egg-schedule\app.js:48:23
+    at AsyncLocalStorage.run (async_hooks.js:314:14)
+    at Messenger.<anonymous> (D:\work\code\owner\node\eggSys\node_modules\_egg-schedule@4.0.0@egg-schedule\app.js:47:27)
+    at Messenger.emit (events.js:400:28)
+    at Messenger._onMessage (D:\work\code\owner\node\eggSys\node_modules\_egg@3.17.4@egg\lib\core\messenger\ipc.js:120:12)
+    at process.emit (events.js:412:35)
+    at emit (internal/child_process.js:912:12)
+    at processTicksAndRejections (internal/process/task_queues.js:83:21)
+2023-09-07 14:31:50,825 INFO 7944 [Timer] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js next time will execute after 2000ms at 2023-09-07 14:31:52.825
+2023-09-07 14:33:01,648 INFO 13916 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-07 14:33:01,648 INFO 13916 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-07 14:33:01,648 INFO 13916 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-07 14:33:01,648 INFO 13916 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-07 14:33:01,786 INFO 3756 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 50218215ms at 2023-09-08 04:30:00.001
+2023-09-07 14:33:01,787 INFO 3756 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 34018214ms at 2023-09-08 00:00:00.001
+2023-09-07 14:33:01,787 INFO 3756 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 34019213ms at 2023-09-08 00:00:01.000
+2023-09-07 14:33:01,787 INFO 3756 [Timer] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js next time will execute after 2000ms at 2023-09-07 14:33:03.787
+2023-09-07 14:33:03,794 INFO 13916 [Job#1694068383795679435961934001] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js executing by app
+2023-09-07 14:33:03,802 ERROR 13916 [-/127.0.0.1/-/7ms SCHEDULE /__schedule?path=D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js&interval=2s&type=all] [Job#1694068383795679435961934001] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js execute failed, used 3ms. TypeError: Cannot read property 'curl' of undefined
+    at UpdateInfo.subscribe (D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js:12:33)
+    at Object.task (D:\work\code\owner\node\eggSys\node_modules\_egg-schedule@4.0.0@egg-schedule\lib\load_schedule.js:37:22)
+    at D:\work\code\owner\node\eggSys\node_modules\_egg-schedule@4.0.0@egg-schedule\app.js:48:23
+    at AsyncLocalStorage.run (async_hooks.js:314:14)
+    at Messenger.<anonymous> (D:\work\code\owner\node\eggSys\node_modules\_egg-schedule@4.0.0@egg-schedule\app.js:47:27)
+    at Messenger.emit (events.js:400:28)
+    at Messenger._onMessage (D:\work\code\owner\node\eggSys\node_modules\_egg@3.17.4@egg\lib\core\messenger\ipc.js:120:12)
+    at process.emit (events.js:412:35)
+    at emit (internal/child_process.js:912:12)
+    at processTicksAndRejections (internal/process/task_queues.js:83:21)
+2023-09-07 14:33:03,796 INFO 3756 [Timer] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js next time will execute after 2000ms at 2023-09-07 14:33:05.796
+2023-09-07 14:33:41,617 INFO 11024 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-07 14:33:41,617 INFO 11024 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-07 14:33:41,617 INFO 11024 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-07 14:33:41,618 INFO 11024 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-07 14:33:41,749 INFO 14760 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 50178253ms at 2023-09-08 04:30:00.002
+2023-09-07 14:33:41,749 INFO 14760 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 33978251ms at 2023-09-08 00:00:00.000
+2023-09-07 14:33:41,749 INFO 14760 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 33979251ms at 2023-09-08 00:00:01.000
+2023-09-07 14:33:41,750 INFO 14760 [Timer] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js next time will execute after 2000ms at 2023-09-07 14:33:43.750
+2023-09-07 14:33:43,754 INFO 11024 [Job#1694068423752679835535058001] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js executing by app
+2023-09-07 14:33:43,778 INFO 11024 [-/127.0.0.1/-/23ms SCHEDULE /__schedule?path=D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js&interval=2s&type=all] [Job#1694068423752679835535058001] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js execute succeed, used 23ms. 
+2023-09-07 14:33:43,753 INFO 14760 [Timer] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js next time will execute after 2000ms at 2023-09-07 14:33:45.753
+2023-09-07 14:33:45,766 INFO 11024 [Job#1694068425764679855653612002] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js executing by app
+2023-09-07 14:33:45,772 INFO 11024 [-/127.0.0.1/-/6ms SCHEDULE /__schedule?path=D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js&interval=2s&type=all] [Job#1694068425764679855653612002] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js execute succeed, used 6ms. 
+2023-09-07 14:33:45,764 INFO 14760 [Timer] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js next time will execute after 2000ms at 2023-09-07 14:33:47.764
+2023-09-07 14:33:47,766 INFO 11024 [Job#1694068427766679875669714003] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js executing by app
+2023-09-07 14:33:47,768 INFO 11024 [-/127.0.0.1/-/2ms SCHEDULE /__schedule?path=D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js&interval=2s&type=all] [Job#1694068427766679875669714003] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js execute succeed, used 2ms. 
+2023-09-07 14:33:47,766 INFO 14760 [Timer] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js next time will execute after 2000ms at 2023-09-07 14:33:49.766
+2023-09-07 14:36:52,647 INFO 10948 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-07 14:36:52,647 INFO 10948 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-07 14:36:52,647 INFO 10948 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-07 14:36:52,647 INFO 10948 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-07 14:36:52,799 INFO 14428 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 49987204ms at 2023-09-08 04:30:00.003
+2023-09-07 14:36:52,799 INFO 14428 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 33787201ms at 2023-09-08 00:00:00.000
+2023-09-07 14:36:52,800 INFO 14428 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 33788201ms at 2023-09-08 00:00:01.001
+2023-09-07 14:36:52,800 INFO 14428 [Timer] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js next time will execute after 2000ms at 2023-09-07 14:36:54.800
+2023-09-07 14:36:54,814 INFO 10948 [Job#1694068614812681746155136001] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js executing by app
+2023-09-07 14:36:54,832 INFO 10948 [-/127.0.0.1/-/18ms SCHEDULE /__schedule?path=D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js&interval=2s&type=all] [Job#1694068614812681746155136001] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js execute succeed, used 18ms. 
+2023-09-07 14:36:54,813 INFO 14428 [Timer] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js next time will execute after 2000ms at 2023-09-07 14:36:56.813
+2023-09-07 14:36:56,822 INFO 10948 [Job#1694068616821681766237011002] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js executing by app
+2023-09-07 14:36:56,830 INFO 10948 [-/127.0.0.1/-/7ms SCHEDULE /__schedule?path=D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js&interval=2s&type=all] [Job#1694068616821681766237011002] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js execute succeed, used 7ms. 
+2023-09-07 14:36:56,821 INFO 14428 [Timer] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js next time will execute after 2000ms at 2023-09-07 14:36:58.821
+2023-09-07 14:36:58,832 INFO 10948 [Job#1694068618830681786328797003] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js executing by app
+2023-09-07 14:36:58,837 INFO 10948 [-/127.0.0.1/-/5ms SCHEDULE /__schedule?path=D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js&interval=2s&type=all] [Job#1694068618830681786328797003] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js execute succeed, used 5ms. 
+2023-09-07 14:36:58,830 INFO 14428 [Timer] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js next time will execute after 2000ms at 2023-09-07 14:37:00.830
+2023-09-07 14:37:00,845 INFO 10948 [Job#1694068620844681806472026004] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js executing by app
+2023-09-07 14:37:00,847 INFO 10948 [-/127.0.0.1/-/2ms SCHEDULE /__schedule?path=D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js&interval=2s&type=all] [Job#1694068620844681806472026004] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js execute succeed, used 2ms. 
+2023-09-07 14:37:00,844 INFO 14428 [Timer] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js next time will execute after 2000ms at 2023-09-07 14:37:02.844
+2023-09-07 14:37:02,851 INFO 10948 [Job#1694068622850681826525929005] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js executing by app
+2023-09-07 14:37:02,853 INFO 10948 [-/127.0.0.1/-/2ms SCHEDULE /__schedule?path=D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js&interval=2s&type=all] [Job#1694068622850681826525929005] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js execute succeed, used 2ms. 
+2023-09-07 14:37:02,850 INFO 14428 [Timer] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js next time will execute after 2000ms at 2023-09-07 14:37:04.850
+2023-09-07 14:37:04,852 INFO 10948 [Job#1694068624851681846535694006] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js executing by app
+2023-09-07 14:37:04,857 INFO 10948 [-/127.0.0.1/-/4ms SCHEDULE /__schedule?path=D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js&interval=2s&type=all] [Job#1694068624851681846535694006] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js execute succeed, used 4ms. 
+2023-09-07 14:37:04,851 INFO 14428 [Timer] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js next time will execute after 2000ms at 2023-09-07 14:37:06.851
+2023-09-07 14:37:06,865 INFO 10948 [Job#1694068626864681866670932007] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js executing by app
+2023-09-07 14:37:06,868 INFO 10948 [-/127.0.0.1/-/3ms SCHEDULE /__schedule?path=D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js&interval=2s&type=all] [Job#1694068626864681866670932007] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js execute succeed, used 3ms. 
+2023-09-07 14:37:06,864 INFO 14428 [Timer] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js next time will execute after 2000ms at 2023-09-07 14:37:08.864
+2023-09-07 14:37:08,869 INFO 10948 [Job#1694068628867681886700794008] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js executing by app
+2023-09-07 14:37:08,873 INFO 10948 [-/127.0.0.1/-/4ms SCHEDULE /__schedule?path=D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js&interval=2s&type=all] [Job#1694068628867681886700794008] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js execute succeed, used 4ms. 
+2023-09-07 14:37:08,867 INFO 14428 [Timer] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js next time will execute after 2000ms at 2023-09-07 14:37:10.867
+2023-09-07 14:37:10,879 INFO 10948 [Job#1694068630877681906803931009] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js executing by app
+2023-09-07 14:37:10,882 INFO 10948 [-/127.0.0.1/-/3ms SCHEDULE /__schedule?path=D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js&interval=2s&type=all] [Job#1694068630877681906803931009] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js execute succeed, used 3ms. 
+2023-09-07 14:37:10,878 INFO 14428 [Timer] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js next time will execute after 2000ms at 2023-09-07 14:37:12.878
+2023-09-07 14:37:12,888 INFO 10948 [Job#16940686328876819268978920010] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js executing by app
+2023-09-07 14:37:12,890 INFO 10948 [-/127.0.0.1/-/2ms SCHEDULE /__schedule?path=D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js&interval=2s&type=all] [Job#16940686328876819268978920010] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js execute succeed, used 2ms. 
+2023-09-07 14:37:12,887 INFO 14428 [Timer] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js next time will execute after 2000ms at 2023-09-07 14:37:14.887
+2023-09-07 14:51:51,572 INFO 15500 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-07 14:51:51,572 INFO 15500 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-07 14:51:51,572 INFO 15500 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-07 14:51:51,572 INFO 15500 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-07 14:51:51,703 INFO 15416 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 49088299ms at 2023-09-08 04:30:00.002
+2023-09-07 14:51:51,703 INFO 15416 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 32888297ms at 2023-09-08 00:00:00.000
+2023-09-07 14:51:51,703 INFO 15416 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 32889297ms at 2023-09-08 00:00:01.000
+2023-09-07 14:51:51,704 INFO 15416 [Timer] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js next time will execute after 120000000ms at 2023-09-09 00:11:51.704
+2023-09-07 14:59:41,137 INFO 16176 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-07 14:59:41,137 INFO 16176 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-07 14:59:41,137 INFO 16176 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-07 14:59:41,137 INFO 16176 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-07 14:59:41,344 INFO 16172 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 48618658ms at 2023-09-08 04:30:00.002
+2023-09-07 14:59:41,344 INFO 16172 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 32418656ms at 2023-09-08 00:00:00.000
+2023-09-07 14:59:41,344 INFO 16172 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 32419656ms at 2023-09-08 00:00:01.000
+2023-09-07 14:59:41,344 INFO 16172 [Timer] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js next time will execute after 120000000ms at 2023-09-09 00:19:41.344
+2023-09-07 14:59:42,407 INFO 17452 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-07 14:59:42,407 INFO 17452 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-07 14:59:42,407 INFO 17452 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-07 14:59:42,407 INFO 17452 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-07 15:28:46,450 INFO 16012 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-07 15:28:46,451 INFO 16012 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-07 15:28:46,451 INFO 16012 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-07 15:28:46,451 INFO 16012 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-07 15:36:14,356 INFO 15652 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-07 15:36:14,356 INFO 15652 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-07 15:36:14,356 INFO 15652 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-07 15:36:14,356 INFO 15652 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-07 15:38:19,398 INFO 15440 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-07 15:38:19,398 INFO 15440 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-07 15:38:19,398 INFO 15440 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-07 15:38:19,398 INFO 15440 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-07 15:41:06,232 INFO 16416 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-07 15:41:06,232 INFO 16416 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-07 15:41:06,232 INFO 16416 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-07 15:41:06,232 INFO 16416 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-07 15:47:06,799 INFO 13136 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-07 15:47:06,799 INFO 13136 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-07 15:47:06,799 INFO 13136 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-07 15:47:06,799 INFO 13136 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-07 15:51:42,485 INFO 4564 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-07 15:51:42,485 INFO 4564 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-07 15:51:42,485 INFO 4564 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-07 15:51:42,485 INFO 4564 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-07 15:51:43,699 INFO 1952 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-07 15:51:43,699 INFO 1952 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-07 15:51:43,699 INFO 1952 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-07 15:51:43,699 INFO 1952 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-07 15:51:56,465 INFO 17892 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-07 15:51:56,465 INFO 17892 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-07 15:51:56,465 INFO 17892 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-07 15:51:56,465 INFO 17892 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-07 16:00:48,674 INFO 16396 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-07 16:00:48,674 INFO 16396 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-07 16:00:48,674 INFO 16396 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-07 16:00:48,674 INFO 16396 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-07 16:00:50,028 INFO 16432 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-07 16:00:50,028 INFO 16432 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-07 16:00:50,028 INFO 16432 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-07 16:00:50,028 INFO 16432 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-08 15:27:46,934 INFO 14400 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 46933069ms at 2023-09-09 04:30:00.003
+2023-09-08 15:27:46,934 INFO 14400 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 30733066ms at 2023-09-09 00:00:00.000
+2023-09-08 15:27:46,935 INFO 14400 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 30734066ms at 2023-09-09 00:00:01.001
+2023-09-08 15:27:46,935 INFO 14400 [Timer] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js next time will execute after 120000000ms at 2023-09-10 00:47:46.935
+2023-09-08 15:27:46,580 INFO 12976 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-08 15:27:46,580 INFO 12976 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-08 15:27:46,580 INFO 12976 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-08 15:27:46,580 INFO 12976 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-08 15:27:47,854 INFO 8600 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-08 15:27:47,854 INFO 8600 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-08 15:27:47,854 INFO 8600 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-08 15:27:47,854 INFO 8600 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 09:41:39,057 INFO 10588 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 09:41:39,057 INFO 10588 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 09:41:39,057 INFO 10588 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 09:41:39,057 INFO 10588 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 09:50:30,384 INFO 12376 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 09:50:30,384 INFO 12376 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 09:50:30,384 INFO 12376 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 09:50:30,384 INFO 12376 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 09:50:30,575 INFO 11472 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 67169427ms at 2023-09-12 04:30:00.002
+2023-09-11 09:50:30,576 INFO 11472 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 50969425ms at 2023-09-12 00:00:00.001
+2023-09-11 09:50:30,576 INFO 11472 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 50970424ms at 2023-09-12 00:00:01.000
+2023-09-11 09:50:30,576 INFO 11472 [Timer] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js next time will execute after 120000000ms at 2023-09-12 19:10:30.576
+2023-09-11 09:50:50,801 INFO 2196 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 09:50:50,801 INFO 2196 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 09:50:50,801 INFO 2196 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 09:50:50,801 INFO 2196 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 09:51:06,454 INFO 5844 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 09:51:06,454 INFO 5844 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 09:51:06,454 INFO 5844 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 09:51:06,454 INFO 5844 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 09:51:18,141 INFO 3720 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 09:51:18,141 INFO 3720 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 09:51:18,141 INFO 3720 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 09:51:18,141 INFO 3720 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 09:53:40,092 INFO 14164 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 09:53:40,092 INFO 14164 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 09:53:40,092 INFO 14164 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 09:53:40,092 INFO 14164 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 09:56:22,665 INFO 12432 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 09:56:22,665 INFO 12432 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 09:56:22,665 INFO 12432 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 09:56:22,665 INFO 12432 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 09:56:22,860 INFO 1112 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 66817142ms at 2023-09-12 04:30:00.002
+2023-09-11 09:56:22,860 INFO 1112 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 50617140ms at 2023-09-12 00:00:00.000
+2023-09-11 09:56:22,861 INFO 1112 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 50618140ms at 2023-09-12 00:00:01.001
+2023-09-11 09:56:22,861 INFO 1112 [Timer] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js next time will execute after 120000000ms at 2023-09-12 19:16:22.861
+2023-09-11 09:57:34,408 INFO 11432 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 09:57:34,408 INFO 11432 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 09:57:34,408 INFO 11432 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 09:57:34,408 INFO 11432 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 09:57:34,616 INFO 6404 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 66745386ms at 2023-09-12 04:30:00.002
+2023-09-11 09:57:34,617 INFO 6404 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 50545383ms at 2023-09-12 00:00:00.000
+2023-09-11 09:57:34,617 INFO 6404 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 50546383ms at 2023-09-12 00:00:01.000
+2023-09-11 09:57:34,617 INFO 6404 [Timer] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js next time will execute after 120000000ms at 2023-09-12 19:17:34.617
+2023-09-11 09:57:58,959 INFO 9416 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 09:57:58,959 INFO 9416 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 09:57:58,959 INFO 9416 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 09:57:58,959 INFO 9416 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 09:57:59,107 INFO 5128 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 66720895ms at 2023-09-12 04:30:00.002
+2023-09-11 09:57:59,107 INFO 5128 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 50520893ms at 2023-09-12 00:00:00.000
+2023-09-11 09:57:59,107 INFO 5128 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 50521893ms at 2023-09-12 00:00:01.000
+2023-09-11 09:57:59,108 INFO 5128 [Timer] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js next time will execute after 120000000ms at 2023-09-12 19:17:59.108
+2023-09-11 09:58:31,341 INFO 4008 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 09:58:31,341 INFO 4008 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 09:58:31,341 INFO 4008 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 09:58:31,341 INFO 4008 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 09:58:40,182 INFO 10696 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 09:58:40,182 INFO 10696 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 09:58:40,182 INFO 10696 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 09:58:40,182 INFO 10696 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 09:58:40,371 INFO 2964 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 66679631ms at 2023-09-12 04:30:00.002
+2023-09-11 09:58:40,371 INFO 2964 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 50479629ms at 2023-09-12 00:00:00.000
+2023-09-11 09:58:40,371 INFO 2964 [Timer] D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 50480629ms at 2023-09-12 00:00:01.000
+2023-09-11 09:58:40,371 INFO 2964 [Timer] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js next time will execute after 120000000ms at 2023-09-12 19:18:40.371
+2023-09-11 09:59:32,101 INFO 5348 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 09:59:32,101 INFO 5348 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 09:59:32,101 INFO 5348 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 09:59:32,101 INFO 5348 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 09:59:44,933 INFO 15496 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 09:59:44,933 INFO 15496 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 09:59:44,933 INFO 15496 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 09:59:44,933 INFO 15496 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:01:09,828 INFO 7148 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:01:09,828 INFO 7148 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:01:09,828 INFO 7148 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:01:09,828 INFO 7148 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:03:03,072 INFO 15964 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:03:03,073 INFO 15964 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:03:03,073 INFO 15964 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:03:03,073 INFO 15964 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:03:16,680 INFO 15136 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:03:16,680 INFO 15136 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:03:16,680 INFO 15136 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:03:16,680 INFO 15136 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:04:05,094 INFO 132 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:04:05,094 INFO 132 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:04:05,094 INFO 132 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:04:05,094 INFO 132 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:05:19,350 INFO 1420 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:05:19,350 INFO 1420 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:05:19,350 INFO 1420 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:05:19,350 INFO 1420 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:06:13,041 INFO 15260 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:06:13,041 INFO 15260 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:06:13,041 INFO 15260 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:06:13,041 INFO 15260 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:06:27,442 INFO 9540 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:06:27,442 INFO 9540 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:06:27,442 INFO 9540 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:06:27,442 INFO 9540 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:06:48,397 INFO 4328 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:06:48,397 INFO 4328 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:06:48,397 INFO 4328 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:06:48,398 INFO 4328 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:07:04,798 INFO 12440 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:07:04,798 INFO 12440 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:07:04,798 INFO 12440 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:07:04,798 INFO 12440 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:07:17,867 INFO 11780 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:07:17,867 INFO 11780 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:07:17,867 INFO 11780 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:07:17,867 INFO 11780 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:08:21,466 INFO 11592 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:08:21,466 INFO 11592 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:08:21,466 INFO 11592 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:08:21,466 INFO 11592 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:09:04,193 INFO 14524 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:09:04,193 INFO 14524 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:09:04,193 INFO 14524 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:09:04,193 INFO 14524 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:09:12,445 INFO 8128 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:09:12,445 INFO 8128 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:09:12,445 INFO 8128 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:09:12,445 INFO 8128 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:09:25,984 INFO 6312 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:09:25,984 INFO 6312 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:09:25,984 INFO 6312 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:09:25,984 INFO 6312 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:09:50,600 INFO 12976 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:09:50,600 INFO 12976 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:09:50,600 INFO 12976 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:09:50,600 INFO 12976 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:10:06,907 INFO 8048 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:10:06,907 INFO 8048 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:10:06,907 INFO 8048 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:10:06,907 INFO 8048 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:10:18,479 INFO 12988 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:10:18,479 INFO 12988 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:10:18,479 INFO 12988 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:10:18,479 INFO 12988 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:10:31,022 INFO 10452 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:10:31,022 INFO 10452 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:10:31,022 INFO 10452 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:10:31,022 INFO 10452 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:10:37,036 INFO 5980 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:10:37,036 INFO 5980 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:10:37,036 INFO 5980 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:10:37,036 INFO 5980 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:10:46,880 INFO 1800 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:10:46,880 INFO 1800 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:10:46,880 INFO 1800 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:10:46,880 INFO 1800 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:10:49,675 INFO 15836 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:10:49,675 INFO 15836 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:10:49,675 INFO 15836 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:10:49,675 INFO 15836 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:10:58,184 INFO 13216 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:10:58,184 INFO 13216 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:10:58,184 INFO 13216 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:10:58,184 INFO 13216 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:11:03,506 INFO 11428 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:11:03,506 INFO 11428 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:11:03,506 INFO 11428 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:11:03,506 INFO 11428 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:11:15,029 INFO 9620 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:11:15,029 INFO 9620 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:11:15,029 INFO 9620 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:11:15,029 INFO 9620 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:11:54,863 INFO 8568 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:11:54,863 INFO 8568 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:11:54,863 INFO 8568 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:11:54,863 INFO 8568 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:12:22,533 INFO 14940 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:12:22,533 INFO 14940 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:12:22,533 INFO 14940 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:12:22,533 INFO 14940 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:12:31,055 INFO 7536 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:12:31,055 INFO 7536 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:12:31,055 INFO 7536 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:12:31,055 INFO 7536 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:12:50,582 INFO 13876 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:12:50,582 INFO 13876 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:12:50,582 INFO 13876 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:12:50,582 INFO 13876 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:12:54,629 INFO 14540 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:12:54,629 INFO 14540 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:12:54,629 INFO 14540 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:12:54,629 INFO 14540 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:13:26,410 INFO 6532 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:13:26,410 INFO 6532 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:13:26,410 INFO 6532 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:13:26,410 INFO 6532 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:14:36,483 INFO 7792 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:14:36,483 INFO 7792 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:14:36,483 INFO 7792 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:14:36,483 INFO 7792 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:14:55,606 INFO 1488 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:14:55,606 INFO 1488 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:14:55,606 INFO 1488 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:14:55,606 INFO 1488 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:15:19,904 INFO 8976 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:15:19,904 INFO 8976 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:15:19,904 INFO 8976 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:15:19,904 INFO 8976 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:15:37,585 INFO 12928 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:15:37,585 INFO 12928 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:15:37,585 INFO 12928 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:15:37,585 INFO 12928 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:15:46,550 INFO 11472 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:15:46,550 INFO 11472 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:15:46,550 INFO 11472 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:15:46,550 INFO 11472 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:15:52,466 INFO 5016 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:15:52,466 INFO 5016 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:15:52,466 INFO 5016 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:15:52,466 INFO 5016 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:16:19,991 INFO 5824 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:16:19,991 INFO 5824 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:16:19,991 INFO 5824 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:16:19,991 INFO 5824 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:17:30,692 INFO 6396 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:17:30,692 INFO 6396 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:17:30,692 INFO 6396 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:17:30,692 INFO 6396 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:18:11,841 INFO 16224 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:18:11,841 INFO 16224 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:18:11,841 INFO 16224 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:18:11,841 INFO 16224 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:18:48,818 INFO 6404 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:18:48,818 INFO 6404 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:18:48,818 INFO 6404 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:18:48,818 INFO 6404 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:18:55,206 INFO 8424 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:18:55,206 INFO 8424 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:18:55,206 INFO 8424 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:18:55,206 INFO 8424 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:19:07,835 INFO 4140 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:19:07,835 INFO 4140 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:19:07,835 INFO 4140 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:19:07,835 INFO 4140 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:19:12,954 INFO 10244 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:19:12,954 INFO 10244 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:19:12,954 INFO 10244 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:19:12,954 INFO 10244 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:19:20,354 INFO 15440 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:19:20,354 INFO 15440 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:19:20,354 INFO 15440 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:19:20,354 INFO 15440 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js
+2023-09-11 10:19:42,586 INFO 7276 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\schedule\clean_tmpdir.js
+2023-09-11 10:19:42,586 INFO 7276 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2023-09-11 10:19:42,586 INFO 7276 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2023-09-11 10:19:42,586 INFO 7276 [egg-schedule]: register schedule D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js

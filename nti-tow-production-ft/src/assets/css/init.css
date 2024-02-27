@@ -1,0 +1,54 @@
+body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+code,
+legend,
+button form,
+fieldset,
+input,
+textarea,
+p,
+blockquote,
+th,
+td {
+  padding   : 0;
+  margin    : 0;
+  border    : 0;
+  box-sizing: border-box;
+}
+
+/* 去除默认的倾斜效果 */
+em,
+i {
+  font-style: normal;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+img {
+  vertical-align: middle;
+}
+
+button,
+input {
+  outline: none;
+}
+
+a {
+  text-decoration: none
+}

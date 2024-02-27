@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+
+  <body> 
+    <div id="app"></div>
+    <script src="./dist/reactivity.global.js"></script>
+
+    <script>
+      const { reactive, readonly, shallowReactive, shallowReadonly, effect,ref,computed } =
+        VueReactivity;
+      let state = reactive({
+        name: "qweee",
+        age: 18,
+        address: "uuuuu",
+        arr: [1, 2, 3],
+      });
+      let str = ref("xxx")
+      const computedStr = computed(()=>{
+        return str.value + "fff"
+      })
+      effect(() => {
+        app.innerHTML = str.value + "---" + computedStr.value
+      });
+      setTimeout(() => {
+        // state.nValue = "new Value"
+        str.value = "qweee"
+      }, 1000);
+    </script>
+  </body>
+</html>

@@ -1,0 +1,67 @@
+2023-09-11 11:41:02,407 WARN 7024 [-/127.0.0.1/-/16ms POST /homePost?a=1&b=2] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2023-09-11 11:41:02,409 WARN 7024 [-/127.0.0.1/-/19ms POST /homePost?a=1&b=2] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (D:\work\code\owner\node\eggSys\node_modules\_koa@2.14.2@koa\lib\context.js:97:11)
+    at Object.assertCsrf (D:\work\code\owner\node\eggSys\node_modules\_egg-security@3.1.0@egg-security\app\extend\context.js:165:32)
+    at csrf (D:\work\code\owner\node\eggSys\node_modules\_egg-security@3.1.0@egg-security\lib\middlewares\csrf.js:37:9)
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:34:12
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at session (D:\work\code\owner\node\eggSys\node_modules\_koa-session@6.4.0@koa-session\index.js:41:13)
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at overrideMethod (D:\work\code\owner\node\eggSys\node_modules\_koa-override@3.0.0@koa-override\index.js:38:12)
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 7024
+hostname: LAILINXIANG-L14
+
+2023-09-11 11:41:44,503 WARN 15092 [-/127.0.0.1/-/15ms POST /homePost?a=1&b=2] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2023-09-11 11:41:44,505 WARN 15092 [-/127.0.0.1/-/17ms POST /homePost?a=1&b=2] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (D:\work\code\owner\node\eggSys\node_modules\_koa@2.14.2@koa\lib\context.js:97:11)
+    at Object.assertCsrf (D:\work\code\owner\node\eggSys\node_modules\_egg-security@3.1.0@egg-security\app\extend\context.js:165:32)
+    at csrf (D:\work\code\owner\node\eggSys\node_modules\_egg-security@3.1.0@egg-security\lib\middlewares\csrf.js:37:9)
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:34:12
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at session (D:\work\code\owner\node\eggSys\node_modules\_koa-session@6.4.0@koa-session\index.js:41:13)
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at overrideMethod (D:\work\code\owner\node\eggSys\node_modules\_koa-override@3.0.0@koa-override\index.js:38:12)
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 15092
+hostname: LAILINXIANG-L14
+
+2023-09-11 11:42:23,459 WARN 6404 [-/127.0.0.1/-/17ms POST /homePost?a=1&b=2] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2023-09-11 11:42:23,460 WARN 6404 [-/127.0.0.1/-/19ms POST /homePost?a=1&b=2] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (D:\work\code\owner\node\eggSys\node_modules\_koa@2.14.2@koa\lib\context.js:97:11)
+    at Object.assertCsrf (D:\work\code\owner\node\eggSys\node_modules\_egg-security@3.1.0@egg-security\app\extend\context.js:165:32)
+    at csrf (D:\work\code\owner\node\eggSys\node_modules\_egg-security@3.1.0@egg-security\lib\middlewares\csrf.js:37:9)
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:34:12
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at session (D:\work\code\owner\node\eggSys\node_modules\_koa-session@6.4.0@koa-session\index.js:41:13)
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at overrideMethod (D:\work\code\owner\node\eggSys\node_modules\_koa-override@3.0.0@koa-override\index.js:38:12)
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 6404
+hostname: LAILINXIANG-L14
+
+2023-09-11 17:39:28,881 ERROR 16092 [-/127.0.0.1/-/16ms POST /file] nodejs.AssertionError: the multipart request can't be consumed twice
+    at Object.multipart (D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\extend\context.js:43:5)
+    at Object.getFileStream (D:\work\code\owner\node\eggSys\node_modules\_egg-multipart@3.3.0@egg-multipart\app\extend\context.js:204:24)
+    at HomeController.uploadFile (D:\work\code\owner\node\eggSys\app\controller\home.js:21:26)
+    at Object.callFn (D:\work\code\owner\node\eggSys\node_modules\_egg-core@5.3.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\work\code\owner\node\eggSys\node_modules\_egg-core@5.3.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\work\code\owner\node\eggSys\node_modules\_@eggjs_router@2.0.1@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\work\code\owner\node\eggSys\node_modules\_@eggjs_router@2.0.1@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\work\code\owner\node\eggSys\node_modules\_@eggjs_router@2.0.1@@eggjs\router\lib\router.js:186:18
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: false
+expected: true
+operator: "=="
+pid: 16092
+hostname: LAILINXIANG-L14
+

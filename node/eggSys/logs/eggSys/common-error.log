@@ -1,0 +1,212 @@
+2023-09-06 16:50:42,795 ERROR 4816 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 4816
+hostname: LAILINXIANG-L14
+
+2023-09-06 16:53:06,498 ERROR 11972 [-/127.0.0.1/-/29ms GET /home] nodejs.ReferenceError: ctx is not defined
+    at HomeController.index (D:\work\code\owner\node\eggSys\app\controller\home.js:5:22)
+    at Object.callFn (D:\work\code\owner\node\eggSys\node_modules\_egg-core@5.3.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\work\code\owner\node\eggSys\node_modules\_egg-core@5.3.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\work\code\owner\node\eggSys\node_modules\_@eggjs_router@2.0.1@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\work\code\owner\node\eggSys\node_modules\_@eggjs_router@2.0.1@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\work\code\owner\node\eggSys\node_modules\_@eggjs_router@2.0.1@@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\work\code\owner\node\eggSys\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 11972
+hostname: LAILINXIANG-L14
+
+2023-09-07 14:31:46,811 ERROR 7816 [-/127.0.0.1/-/1ms SCHEDULE /__schedule?path=D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js&interval=2s&type=all] [Job#1694068306808678666102984001] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js execute failed, used 1ms. TypeError: Cannot read property 'curl' of undefined
+    at UpdateInfo.subscribe (D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js:11:33)
+    at Object.task (D:\work\code\owner\node\eggSys\node_modules\_egg-schedule@4.0.0@egg-schedule\lib\load_schedule.js:37:22)
+    at D:\work\code\owner\node\eggSys\node_modules\_egg-schedule@4.0.0@egg-schedule\app.js:48:23
+    at AsyncLocalStorage.run (async_hooks.js:314:14)
+    at Messenger.<anonymous> (D:\work\code\owner\node\eggSys\node_modules\_egg-schedule@4.0.0@egg-schedule\app.js:47:27)
+    at Messenger.emit (events.js:400:28)
+    at Messenger._onMessage (D:\work\code\owner\node\eggSys\node_modules\_egg@3.17.4@egg\lib\core\messenger\ipc.js:120:12)
+    at process.emit (events.js:412:35)
+    at emit (internal/child_process.js:912:12)
+    at processTicksAndRejections (internal/process/task_queues.js:83:21)
+2023-09-07 14:31:48,824 ERROR 7816 [-/127.0.0.1/-/0ms SCHEDULE /__schedule?path=D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js&interval=2s&type=all] [Job#1694068308823678686252500002] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js execute failed, used 0ms. TypeError: Cannot read property 'curl' of undefined
+    at UpdateInfo.subscribe (D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js:11:33)
+    at Object.task (D:\work\code\owner\node\eggSys\node_modules\_egg-schedule@4.0.0@egg-schedule\lib\load_schedule.js:37:22)
+    at D:\work\code\owner\node\eggSys\node_modules\_egg-schedule@4.0.0@egg-schedule\app.js:48:23
+    at AsyncLocalStorage.run (async_hooks.js:314:14)
+    at Messenger.<anonymous> (D:\work\code\owner\node\eggSys\node_modules\_egg-schedule@4.0.0@egg-schedule\app.js:47:27)
+    at Messenger.emit (events.js:400:28)
+    at Messenger._onMessage (D:\work\code\owner\node\eggSys\node_modules\_egg@3.17.4@egg\lib\core\messenger\ipc.js:120:12)
+    at process.emit (events.js:412:35)
+    at emit (internal/child_process.js:912:12)
+    at processTicksAndRejections (internal/process/task_queues.js:83:21)
+2023-09-07 14:31:50,826 ERROR 7816 [-/127.0.0.1/-/1ms SCHEDULE /__schedule?path=D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js&interval=2s&type=all] [Job#1694068310825678706269957003] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js execute failed, used 1ms. TypeError: Cannot read property 'curl' of undefined
+    at UpdateInfo.subscribe (D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js:11:33)
+    at Object.task (D:\work\code\owner\node\eggSys\node_modules\_egg-schedule@4.0.0@egg-schedule\lib\load_schedule.js:37:22)
+    at D:\work\code\owner\node\eggSys\node_modules\_egg-schedule@4.0.0@egg-schedule\app.js:48:23
+    at AsyncLocalStorage.run (async_hooks.js:314:14)
+    at Messenger.<anonymous> (D:\work\code\owner\node\eggSys\node_modules\_egg-schedule@4.0.0@egg-schedule\app.js:47:27)
+    at Messenger.emit (events.js:400:28)
+    at Messenger._onMessage (D:\work\code\owner\node\eggSys\node_modules\_egg@3.17.4@egg\lib\core\messenger\ipc.js:120:12)
+    at process.emit (events.js:412:35)
+    at emit (internal/child_process.js:912:12)
+    at processTicksAndRejections (internal/process/task_queues.js:83:21)
+2023-09-07 14:33:03,799 ERROR 13916 [-/127.0.0.1/-/4ms SCHEDULE /__schedule?path=D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js&interval=2s&type=all] [Job#1694068383795679435961934001] D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js execute failed, used 3ms. TypeError: Cannot read property 'curl' of undefined
+    at UpdateInfo.subscribe (D:\work\code\owner\node\eggSys\app\schedule\updateInfo.js:12:33)
+    at Object.task (D:\work\code\owner\node\eggSys\node_modules\_egg-schedule@4.0.0@egg-schedule\lib\load_schedule.js:37:22)
+    at D:\work\code\owner\node\eggSys\node_modules\_egg-schedule@4.0.0@egg-schedule\app.js:48:23
+    at AsyncLocalStorage.run (async_hooks.js:314:14)
+    at Messenger.<anonymous> (D:\work\code\owner\node\eggSys\node_modules\_egg-schedule@4.0.0@egg-schedule\app.js:47:27)
+    at Messenger.emit (events.js:400:28)
+    at Messenger._onMessage (D:\work\code\owner\node\eggSys\node_modules\_egg@3.17.4@egg\lib\core\messenger\ipc.js:120:12)
+    at process.emit (events.js:412:35)
+    at emit (internal/child_process.js:912:12)
+    at processTicksAndRejections (internal/process/task_queues.js:83:21)
+2023-09-07 16:00:50,075 ERROR 16172 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:209:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16172
+hostname: LAILINXIANG-L14
+
+2023-09-11 09:56:30,350 ERROR 12432 [-/127.0.0.1/-/16ms GET /home] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\work\code\owner\node\eggSys\node_modules\_egg@3.17.4@egg\lib\application.js:285:15)
+    at Object.get cookies [as cookies] (D:\work\code\owner\node\eggSys\node_modules\_egg@3.17.4@egg\app\extend\context.js:23:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\work\code\owner\node\eggSys\node_modules\_egg-security@3.1.0@egg-security\app\extend\context.js:93:35)
+    at Object.ensureCsrfSecret (D:\work\code\owner\node\eggSys\node_modules\_egg-security@3.1.0@egg-security\app\extend\context.js:106:13)
+    at csrf (D:\work\code\owner\node\eggSys\node_modules\_egg-security@3.1.0@egg-security\lib\middlewares\csrf.js:13:11)
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:34:12
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at session (D:\work\code\owner\node\eggSys\node_modules\_koa-session@6.4.0@koa-session\index.js:41:13)
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+
+pid: 12432
+hostname: LAILINXIANG-L14
+
+2023-09-11 09:57:37,578 ERROR 11432 [-/127.0.0.1/-/16ms GET /home] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\work\code\owner\node\eggSys\node_modules\_egg@3.17.4@egg\lib\application.js:285:15)
+    at Object.get cookies [as cookies] (D:\work\code\owner\node\eggSys\node_modules\_egg@3.17.4@egg\app\extend\context.js:23:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\work\code\owner\node\eggSys\node_modules\_egg-security@3.1.0@egg-security\app\extend\context.js:93:35)
+    at Object.ensureCsrfSecret (D:\work\code\owner\node\eggSys\node_modules\_egg-security@3.1.0@egg-security\app\extend\context.js:106:13)
+    at csrf (D:\work\code\owner\node\eggSys\node_modules\_egg-security@3.1.0@egg-security\lib\middlewares\csrf.js:13:11)
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:34:12
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at session (D:\work\code\owner\node\eggSys\node_modules\_koa-session@6.4.0@koa-session\index.js:41:13)
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+
+pid: 11432
+hostname: LAILINXIANG-L14
+
+2023-09-11 09:58:03,231 ERROR 9416 [-/127.0.0.1/-/15ms GET /home] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\work\code\owner\node\eggSys\node_modules\_egg@3.17.4@egg\lib\application.js:285:15)
+    at Object.get cookies [as cookies] (D:\work\code\owner\node\eggSys\node_modules\_egg@3.17.4@egg\app\extend\context.js:23:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\work\code\owner\node\eggSys\node_modules\_egg-security@3.1.0@egg-security\app\extend\context.js:93:35)
+    at Object.ensureCsrfSecret (D:\work\code\owner\node\eggSys\node_modules\_egg-security@3.1.0@egg-security\app\extend\context.js:106:13)
+    at csrf (D:\work\code\owner\node\eggSys\node_modules\_egg-security@3.1.0@egg-security\lib\middlewares\csrf.js:13:11)
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:34:12
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at session (D:\work\code\owner\node\eggSys\node_modules\_koa-session@6.4.0@koa-session\index.js:41:13)
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+
+pid: 9416
+hostname: LAILINXIANG-L14
+
+2023-09-11 09:58:08,858 ERROR 9416 [-/127.0.0.1/-/2ms GET /home] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\work\code\owner\node\eggSys\node_modules\_egg@3.17.4@egg\lib\application.js:285:15)
+    at Object.get cookies [as cookies] (D:\work\code\owner\node\eggSys\node_modules\_egg@3.17.4@egg\app\extend\context.js:23:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\work\code\owner\node\eggSys\node_modules\_egg-security@3.1.0@egg-security\app\extend\context.js:93:35)
+    at Object.ensureCsrfSecret (D:\work\code\owner\node\eggSys\node_modules\_egg-security@3.1.0@egg-security\app\extend\context.js:106:13)
+    at csrf (D:\work\code\owner\node\eggSys\node_modules\_egg-security@3.1.0@egg-security\lib\middlewares\csrf.js:13:11)
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:34:12
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at session (D:\work\code\owner\node\eggSys\node_modules\_koa-session@6.4.0@koa-session\index.js:41:13)
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+
+pid: 9416
+hostname: LAILINXIANG-L14
+
+2023-09-11 09:58:32,073 ERROR 4008 [-/127.0.0.1/-/17ms GET /home] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\work\code\owner\node\eggSys\node_modules\_egg@3.17.4@egg\lib\application.js:285:15)
+    at Object.get cookies [as cookies] (D:\work\code\owner\node\eggSys\node_modules\_egg@3.17.4@egg\app\extend\context.js:23:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\work\code\owner\node\eggSys\node_modules\_egg-security@3.1.0@egg-security\app\extend\context.js:93:35)
+    at Object.ensureCsrfSecret (D:\work\code\owner\node\eggSys\node_modules\_egg-security@3.1.0@egg-security\app\extend\context.js:106:13)
+    at csrf (D:\work\code\owner\node\eggSys\node_modules\_egg-security@3.1.0@egg-security\lib\middlewares\csrf.js:13:11)
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:34:12
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at session (D:\work\code\owner\node\eggSys\node_modules\_koa-session@6.4.0@koa-session\index.js:41:13)
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+
+pid: 4008
+hostname: LAILINXIANG-L14
+
+2023-09-11 09:58:45,670 ERROR 10696 [-/127.0.0.1/-/23ms GET /home] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\work\code\owner\node\eggSys\node_modules\_egg@3.17.4@egg\lib\application.js:285:15)
+    at Object.get cookies [as cookies] (D:\work\code\owner\node\eggSys\node_modules\_egg@3.17.4@egg\app\extend\context.js:23:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\work\code\owner\node\eggSys\node_modules\_egg-security@3.1.0@egg-security\app\extend\context.js:93:35)
+    at Object.ensureCsrfSecret (D:\work\code\owner\node\eggSys\node_modules\_egg-security@3.1.0@egg-security\app\extend\context.js:106:13)
+    at csrf (D:\work\code\owner\node\eggSys\node_modules\_egg-security@3.1.0@egg-security\lib\middlewares\csrf.js:13:11)
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:34:12
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at session (D:\work\code\owner\node\eggSys\node_modules\_koa-session@6.4.0@koa-session\index.js:41:13)
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+
+pid: 10696
+hostname: LAILINXIANG-L14
+
+2023-09-11 10:04:07,599 ERROR 132 nodejs.ReferenceError: logger is not defined
+    at HomeController.getList (D:\work\code\owner\node\eggSys\app\controller\home.js:5:5)
+    at Object.callFn (D:\work\code\owner\node\eggSys\node_modules\_egg-core@5.3.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\work\code\owner\node\eggSys\node_modules\_egg-core@5.3.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\work\code\owner\node\eggSys\node_modules\_@eggjs_router@2.0.1@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\work\code\owner\node\eggSys\node_modules\_@eggjs_router@2.0.1@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\work\code\owner\node\eggSys\node_modules\_@eggjs_router@2.0.1@@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\work\code\owner\node\eggSys\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 132
+hostname: LAILINXIANG-L14
+
+2023-09-11 10:05:21,261 ERROR 1420 nodejs.ReferenceError: logger is not defined
+    at HomeController.getList (D:\work\code\owner\node\eggSys\app\controller\home.js:5:5)
+    at Object.callFn (D:\work\code\owner\node\eggSys\node_modules\_egg-core@5.3.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\work\code\owner\node\eggSys\node_modules\_egg-core@5.3.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\work\code\owner\node\eggSys\node_modules\_@eggjs_router@2.0.1@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\work\code\owner\node\eggSys\node_modules\_@eggjs_router@2.0.1@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\work\code\owner\node\eggSys\node_modules\_@eggjs_router@2.0.1@@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\work\code\owner\node\eggSys\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 1420
+hostname: LAILINXIANG-L14
+
+2023-09-11 10:16:25,574 ERROR 5824 nodejs.TypeError: next is not a function
+    at D:\work\code\owner\node\eggSys\app\middleware\logger.js:4:11
+    at HomeController.getList (D:\work\code\owner\node\eggSys\app\controller\home.js:9:5)
+    at Object.callFn (D:\work\code\owner\node\eggSys\node_modules\_egg-core@5.3.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\work\code\owner\node\eggSys\node_modules\_egg-core@5.3.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\work\code\owner\node\eggSys\node_modules\_@eggjs_router@2.0.1@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\work\code\owner\node\eggSys\node_modules\_@eggjs_router@2.0.1@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\work\code\owner\node\eggSys\node_modules\_@eggjs_router@2.0.1@@eggjs\router\lib\router.js:186:18
+    at dispatch (D:\work\code\owner\node\eggSys\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+
+pid: 5824
+hostname: LAILINXIANG-L14
+

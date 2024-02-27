@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Document</title>
+  <script src="../dist/vue.js"></script>
+</head>
+
+<body>
+  <div id="app">
+    <h1>{{num1}}</h1>
+    <h1>{{num2}}</h1>
+  </div>
+  <script>
+    let vm = new Vue({
+      el: "#app",
+      data() {
+        return {
+          num1: 1,
+          num2: 2,
+          arr: [1, 2, 3, 4],
+          arrObj: [
+            {
+              name: "x"
+            },
+            {
+              name: "f"
+            }
+          ]
+        }
+      },
+      computed:{
+        sum(){
+          return this.num1 + this.num2
+        }
+      },
+      // watch:{
+      //   num1(newV,oldV){
+          
+      //   }
+      // }
+    });
+    setTimeout(()=>{
+      vm.num1 = 100
+      vm.num2 = 200
+    },2000)
+    // vm._update(vm._render())
+  </script>
+</body>
+
+</html>

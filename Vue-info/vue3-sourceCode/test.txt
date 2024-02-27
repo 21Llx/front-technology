@@ -1,0 +1,6 @@
+yarn add typescript rollup rollup-plugin-typescript2 @rollup/plugin-node-resolve @rollup/plugin-json execa
+
+"private":true,
+  "workspaces":[
+    "packages/*"
+  ],

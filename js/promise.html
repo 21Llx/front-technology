@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script src="./myPromise.js"></script>
+    <script>
+      new MyPromise((res, rej) => {   //0 1 2 end
+        console.log(0);
+        res(1);
+      }).then((res) => {
+          console.log(res);   //1
+          return 2;
+        }).then((res) => {
+          console.log(res); // 2
+          return 3;
+        })
+      //------then catch
+      /* new MyPromise((res, rej) => {   //0 1 2 end
+        console.log(0);
+        res(1);
+      })
+        .then((res) => {
+          console.log(res);   //1
+          console.log(first)
+          return 2;
+        })
+        .then((res) => {
+          console.log(res); // 2
+          return 3;
+        })
+        .then((res) => {
+          console.log("end");
+          return 4
+        })
+        .catch((err) => {
+          console.log("ttt");
+          console.log(err);
+        }) */
+
+      //  ---------all
+      /* const promise1 = Promise.resolve(3);
+      const promise2 = Promise.resolve("xxxxxxxx");
+      const promise3 = new Promise((resolve, reject) => {
+        setTimeout(() => {
+          resolve(33213123);
+        }, 110);
+      });
+
+      Promise.all([promise1, promise2, "qweqwe", promise3, 45])
+        .then((values) => {
+          console.log(values);
+        })
+        .catch((err) => {
+          console.log(err);
+        }); */
+
+      // let p = new MyPromise((res,rej)=>{ 
+      //   rej(100)
+      // })
+      // p.finally(()=>{
+      //   console.log("finally")
+      //   return new MyPromise((res,rej)=>{
+      //     setTimeout(()=>{
+      //       res()
+      //     },3000)
+      //   })
+        
+      // }).then(res=>{
+      //   console.log("then",res)
+      // }).catch(err=>{
+      //   console.log("err",err)
+      // })
+    </script>
+  </body>
+</html>
