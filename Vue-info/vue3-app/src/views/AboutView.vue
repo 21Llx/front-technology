@@ -12,6 +12,7 @@
 import { useCounterStore } from "../store";
 import { mapState, mapActions } from "pinia";
 
+import { useRoute } from "vue-router";
 export default {
   name: "HomeView",
   data() {
@@ -25,6 +26,8 @@ export default {
     }),
   },
   created() {
+    // const route = useRoute();
+    console.log(this.$route.params)
     // this.counterStore.$subscribe((action,state)=>{
     //   console.log(action)
     //   console.log(state)

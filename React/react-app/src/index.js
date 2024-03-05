@@ -8,6 +8,8 @@ import store from "./store/indexStore"
 // import storeToolkit from "./store-toolkit/index"
 import storeToolkit from "./store/indexToolkit"
 import { Provider } from 'react-redux';
+console.log(<div></div>)
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
 

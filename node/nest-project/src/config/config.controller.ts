@@ -1,7 +1,5 @@
 import { Controller, Get,Inject } from '@nestjs/common';
-
 @Controller('config')
-
 export class ConfigController {
 
   constructor(@Inject('CONFIG_OPTIONS') private config: Record<string, any>) {}

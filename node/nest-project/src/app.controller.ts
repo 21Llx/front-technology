@@ -1,41 +1,54 @@
-import { Controller, Get,Post,Req,Res,Body,HttpException,HttpStatus,ParseIntPipe,Param,Query } from '@nestjs/common';
+import {
+  Controller,
+  Get,
+  Post,
+  Req,
+  Res,
+  Body,
+  Headers,
+  HttpException,
+  HttpStatus,
+  ParseIntPipe,
+  Param,
+  Query,
+  ArgumentsHost,
+  HttpCode,
+} from '@nestjs/common';
 import { AppService } from './app.service';
-import {PostService} from "./posts/post.service"
-import { Request } from 'express';
-import {CreateAppDto} from "./app.dot"
-import { ConfigService } from './config/config.service';
-@Controller()
-export class AppController {
-  constructor(private readonly appService: AppService,private readonly postService:PostService,private readonly configService:ConfigService) {}
+import {ServiceService3} from "./service/service.service"
+import {ConfigService} from "./config/config.service"
 
-  @Get('bar/:id')
-  getHello(@Param("id",ParseIntPipe) id:number,@Query("num",ParseIntPipe) num:number): string {
-    // throw new HttpException('Forbidden', HttpStatus.FORBIDDEN);
+@Controller("app")
+export class AppController {
+  constructor(
+    private readonly appService: AppService,
+    private readonly serviceService: ServiceService3,
+    private readonly configService: ConfigService,
+
+  ) {}
+
+  @Get(':id')
+  getHello(@Param() params,@Query() query,@Headers() headers): string {
+    console.log(params)
+    console.log(query)
+    console.log(headers)
+    console.log(this.serviceService.get("123"))
+    console.log(this.configService.getConfig())
     return this.appService.getHello();
   }
-  @Post('create')
-  async getPost(@Body() body:CreateAppDto){
-    console.log(body)
-    this.appService.create(body)
-    return body
+ @Post("post")
+//  返回状态码
+//  @HttpCode(500) 
+ create(@Body() body){
+  console.log(body)
+
+  return "app/post"
+
+ }
+ @Post("error")
+ //  返回状态码
+ //  @HttpCode(500) 
+  getError(){
+   throw new HttpException('Forbidden', HttpStatus.FORBIDDEN);
   }
-  @Get('find') 
-  find(): any[] {
-    
-    console.log(this.postService.sayPost())
-    return this.appService.findAll();
-  }
-}
-
-
-
-@Controller('other')
-export class OtherController {
-  constructor(private readonly postService:PostService) {}
-
-  @Get()
-  getHello(@Req() request: Request): string {
-    return this.postService.sayPost();
-  }
-
 }

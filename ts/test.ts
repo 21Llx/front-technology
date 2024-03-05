@@ -6,7 +6,7 @@ type Pt = {
   x:number,
   y?:string
 }
-1
+
 interface Point {
   x: number;
   y: number;
@@ -38,3 +38,51 @@ function fn123() {
 
 }
 fn123()
+
+type DescribableFunction = {
+  description: string;
+  (someArg: number): boolean;
+};
+function doSomething(fn: DescribableFunction) {
+  console.log(fn.description + " returned " + fn(6));
+}
+ 
+function myFunc(someArg: number) {
+  return someArg > 3;
+}
+myFunc.description = "default description";
+ 
+doSomething(myFunc);
+
+function firstElement<Type>(arr: Type[]): Type | undefined {
+  return arr[0];
+}
+
+firstElement([{a:1},{b:2},123])
+
+function multiply(n: number, ...m: number[]) {
+  return m.map((x) => n * x);
+}
+
+multiply(1,2,123)
+
+
+interface SquareConfig {
+  color?: string;
+  width?: number;
+  [propName: string]: any;
+}
+let squ:SquareConfig = {
+  a:12,b:2
+}
+
+type Point1 = { x: number; y: number };
+type P = keyof Point1;
+
+let pp:P ="x"
+
+type Person = { age: number; name: string; alive: boolean };
+type I1 = Person["age" | "name"];
+let t1:I1 = 123
+
+// Conditional Types

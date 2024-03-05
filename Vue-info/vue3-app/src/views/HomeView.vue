@@ -29,7 +29,14 @@ export default {
   },
   methods: {
     toAbout(){
-      this.$router.push("/about")
+      this.$router.push({
+        name: "about",
+        query:{id:"xxxx"},
+        params:{
+          a:123
+        },
+        hash:"#er"
+      })
     },
     clgStore(){
       this.homeNum++
